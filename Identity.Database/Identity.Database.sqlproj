@@ -69,7 +69,6 @@
     <Build Include="dbo\Tables\IdentityProfile.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="CompareLocal.scmp" />
     <None Include="Generate.sql" />
   </ItemGroup>
 </Project>
